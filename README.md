@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syd Polk (@sydvicious)
 - 👀 I’m interested in IOS, Mac OS, SwiftUI, SpringBoot, Java, Kubernetes
-- 🌱 I’m currently learning SwiftUI 4
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me: sydpolk at gmail dot com
 
 <!---
